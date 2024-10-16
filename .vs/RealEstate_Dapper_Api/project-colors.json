@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d49eba0-33c6-4b24-b760-b0c12fe00635": {
+      "ProjectGuid": "5d49eba0-33c6-4b24-b760-b0c12fe00635",
+      "DisplayName": "RealEstate_Dapper_UI",
+      "ColorIndex": 0
+    },
+    "314b84a8-f0d2-4e5e-8250-1ec04c826fbc": {
+      "ProjectGuid": "314b84a8-f0d2-4e5e-8250-1ec04c826fbc",
+      "DisplayName": "RealEstate_Dapper_Api",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
